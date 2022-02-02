@@ -1,0 +1,16 @@
+{
+  "name": "noteszipper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backened/server.js"
+  },
+  "author": "Margi Nasit",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^15.0.0",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
